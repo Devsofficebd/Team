@@ -1,0 +1,23 @@
+.note-thumbnail {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.box-overlay{
+    box-shadow: 0px 0px 0px 4px #000;
+    padding: 20px !important;
+    display: block;
+    width: 100% !important;
+    border-radius: 10px !important;
+    margin-top: 30px;
+    margin-bottom: 50px !important;
+}
+
+summary {
+    box-shadow: 0px 0px 0px 4px #000;
+    padding: 10px 15px !important;
+    width: max-content !important;
+    border-radius: 10px !important;
+ 
+}
